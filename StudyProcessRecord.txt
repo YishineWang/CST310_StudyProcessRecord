@@ -1,0 +1,6 @@
+2020 Nov 8th
+1. Study github, find the related website reference.
+2. Find the high quality model of website design
+3. Think and draw wireframe
+4. Draw the activity diagram. Draw use case diagram if it is needed.
+5. Read the thesis again to know more about Online Teaching.
